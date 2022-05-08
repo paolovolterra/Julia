@@ -17,3 +17,7 @@ Pluto is a notebook environment that is reminiscent of Jupyter but has some sign
 ![jpg](https://miro.medium.com/max/600/0*9D8vdNMpXS2qBiyV.png)
 
 ![jpg](https://miro.medium.com/max/600/1*upHWHxpaORVXZgdjp325sw.png)
+
+## da approfondire
+
+https://pub.towardsai.net/data-engineering-using-julia-lang-c2c7454b180f
